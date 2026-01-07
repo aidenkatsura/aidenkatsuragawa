@@ -1,2 +1,2 @@
-# aidenkatsuragawa
-Personal Website for Aiden Katsuragawa
+# Aiden Katsuragawa Website
+## Personal Website for Aiden Katsuragawa
