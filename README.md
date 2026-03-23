@@ -1,2 +1,2 @@
 # Aiden Katsuragawa Website
-## Personal Website for Aiden Katsuragawa
+[Aiden Katsuragawa](https://github.com/aidenkatsura)
